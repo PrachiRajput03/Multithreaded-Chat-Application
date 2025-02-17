@@ -48,3 +48,7 @@ A multithreaded chat application using Java Sockets that enables multiple client
    > java.io
    > javax.swing
 4. Multithreading
+
+
+
+OUTPUT: ![Image](https://github.com/user-attachments/assets/b05d1016-fd4a-40e8-ac28-6736e9f9f025)
